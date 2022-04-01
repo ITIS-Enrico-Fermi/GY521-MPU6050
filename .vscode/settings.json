@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "cstddef": "c",
+        "adxl345.h": "c"
+    }
+}
